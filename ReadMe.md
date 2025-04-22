@@ -19,8 +19,9 @@
 
 📧 Email: KenenisaMiesoB@gmail.com
 
-📱 Telegram: @kemis15
-   LinkdIn : www.linkedin.com/in/kenenisa-mieso
+📱 Telegram:./ @kemis15
+
+📱 LinkdIn : www.linkedin.com/in/kenenisa-mieso
 
 ⚡ Fun fact: I believe every line of code tells a story—let’s write something extraordinary together!
 
