@@ -1,11 +1,11 @@
 ✨ Kenenisa Mieso
-*AI-Driven Fullstack Developer | React Enthusiast | Lifelong Learner*
+*Frontend Developer | React Enthusiast | Lifelong Learner*
 
 👋 Hello there! I’m Kenenisa Mieso, passionate about building intelligent web applications powered by AI.
 
 💻 Interests:
 
-🤖 AI-integrated fullstack development
+🤖 AI-integrated frontend development
 
 🎨 Frontend magic with React
 
