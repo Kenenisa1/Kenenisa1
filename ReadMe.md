@@ -1,13 +1,15 @@
-# 👋 Hello, I'm Kenenisa Mieso
-### 🚀 MERN Stack Developer | Next.js Enthusiast | AI-Powered Solutions Builder
+<h1 align="center">👋 Hello, I'm Kenenisa Mieso</h1>
+<h3 align="center">🚀 MERN Stack Developer | Next.js Enthusiast | AI-Powered Solutions Builder</h3>
 
-[LinkedIn](https://www.linkedin.com/in/kenenisa-mieso/) • 
-[Email](mailto:KenenisaMiesoB@gmail.com) • 
-[Telegram](https://t.me/kemis15)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenenisa-mieso/">LinkedIn</a> •
+  <a href="mailto:KenenisaMiesoB@gmail.com">Email</a> •
+  <a href="https://t.me/kemis15">Telegram</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I'm a passionate Software Engineering student at **Arba Minch University**, focused on building intelligent, efficient, and secure full-stack web applications. I thrive on leveraging modern technologies like the MERN stack and Next.js, combined with AI tools, to create impactful and seamless user experiences.
 
@@ -17,24 +19,24 @@ I'm a passionate Software Engineering student at **Arba Minch University**, focu
 - 🤝 **Open to:** **AI & Web Development Internships**, innovative projects, hackathons, and open-source contributions.
 - ⚡ **Fun Fact:** I believe every line of code tells a story—let's write something extraordinary together!
 
-## 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-**Frontend:** `React.js`, `Next.js`, `HTML5`, `CSS3`, `JavaScript (ES6+)`
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | `React.js`, `Next.js`, `HTML5`, `CSS3`, `JavaScript (ES6+)` |
+| **Backend**  | `Node.js`, `Express.js` |
+| **Database** | `MongoDB` |
+| **Full-Stack** | `MERN Stack` |
+| **Concepts** | `RESTful API Development`, `AI Integration`, `Cybersecurity Awareness` |
 
-**Backend:** `Node.js`, `Express.js`
+### 📈 GitHub Stats
 
-**Database:** `MongoDB`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenenisa1&show_icons=true&theme=radical" alt="Kenenisa's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenenisa1&theme=radical" alt="GitHub Streak" />
+</p>
 
-**Full-Stack:** `MERN Stack`
-
-**Concepts:** `RESTful API Development`, `AI Integration`, `Cybersecurity Awareness`
-
-## 📈 GitHub Stats
-
-![Kenenisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenenisa1&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenenisa1&theme=radical)
-
-## 🤝 Let's Connect & Collaborate!
+### 🤝 Let's Connect & Collaborate!
 
 I'm always excited to connect with fellow developers, innovators, and mentors. Feel free to reach out if you want to discuss:
 
@@ -44,9 +46,10 @@ I'm always excited to connect with fellow developers, innovators, and mentors. F
 
 ---
 
-**📫 How to reach me:**
-
-- **📧 Email:** KenenisaMiesob@gmail.com
-- **💼 LinkedIn:** [linkedin.com/in/kenenisa-mieso](https://www.linkedin.com/in/kenenisa-mieso/)
-- **📱 Telegram:** [@kemis15](https://t.me/kemis15)
-- **💻 GitHub:** [github.com/Kenenisa1](https://github.com/Kenenisa1)
+<p align="center">
+   <i>📫 How to reach me:</i><br>
+    <a href="mailto:KenenisaMiesoB@gmail.com">📧 Email</a> |
+    <a href="https://www.linkedin.com/in/kenenisa-mieso/">💼 LinkedIn</a> |
+    <a href="https://t.me/kemis15">📱 Telegram</a> |
+    <a href="https://github.com/Kenenisa1">💻 GitHub</a>
+</p>
